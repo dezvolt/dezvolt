@@ -8,8 +8,8 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Charles Holtsclaw
-- An Early Investment Manager for an O&G company by day, amateur dev by night. 
+### I'm Charles Holtsclaw
+- A venture capitalist in the O&G industry by day, amateur dev by night. 
 - Currently learning : `.rb`, `.js`, `.html`, `.css`, `.sql`
 - Enjoy CTF / studying cybersecurity and exploitation methods (just for fun)
 
