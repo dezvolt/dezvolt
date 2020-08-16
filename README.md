@@ -10,7 +10,7 @@
 
 ### I'm Charles Holtsclaw
 - A corporate venture capitalist in the O&G industry by day, amateur dev by night. 
-- Currently learning : `.rb`, `.js`, `.html`, `.scss`, `.sql`
+- Currently learning : `.rb`, `.js`, `.html`, `.css`, `.sql`
 - Enjoy CTF / studying cybersecurity and exploitation methods (just for fun)
 
 ⭐️ [Visit my site](https://dezvolt.github.io)
