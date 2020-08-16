@@ -13,4 +13,4 @@
 - Currently learning : `.rb`, `.js`, `.html`, `.css`, `.sql`
 - Enjoy CTF / studying cybersecurity and exploitation methods (just for fun)
 
-⭐️ From [dezvolt](https://github.com/dezvolt)
+⭐️ [Visit my site](https://dezvolt.github.io)
